@@ -1,0 +1,24 @@
+# Facial Recognition
+opencv-python==4.8.1.78
+face-recognition==1.3.0
+dlib==19.24.2
+
+# Image Processing
+Pillow==10.0.0
+numpy==1.24.3
+
+# HTTP requests
+requests==2.31.0
+
+# Backend Flask
+Flask==2.3.3
+Flask-SQLAlchemy==3.0.5
+
+# Logging e Utils
+python-dateutil==2.8.2
+
+# Not required: for better performance
+scikit-learn==1.3.0
+
+# For dev/debuging
+python-dotenv==1.0.0
